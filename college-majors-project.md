@@ -1478,7 +1478,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](graphs/output_16_0.png)
 
 
 ## Visualizations of percentages of employment for high school grads
@@ -1500,12 +1500,12 @@ plt.figure(
 
 
 
-![png](output_18_0.png)
+![png](graphs/output_18_0.png)
 
 
 
 
-![png](output_18_1.png)
+![png](graphs/output_18_1.png)
 
 
 ## Drop unused columns
@@ -2168,5 +2168,5 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](graphs/output_28_0.png)
 

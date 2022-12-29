@@ -1,1 +1,1 @@
-# college-majors-project
+# ECONOMICS OF COLLEGE MAJORS PROJECT

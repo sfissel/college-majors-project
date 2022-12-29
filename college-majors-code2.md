@@ -1115,12 +1115,12 @@ plt.figure(
 
 
 
-![png](output_15_0.png)
+![png](graphs/output_15_0.png)
 
 
 
 
-![png](output_15_1.png)
+![png](graphs/output_15_1.png)
 
 
 
@@ -1140,12 +1140,12 @@ plt.figure(
 
 
 
-![png](output_16_0.png)
+![png](graphs/output_16_0.png)
 
 
 
 
-![png](output_16_1.png)
+![png](graphs/output_16_1.png)
 
 
 
@@ -2010,7 +2010,7 @@ fig=axis.get_figure()
 ```
 
 
-![png](output_24_0.png)
+![png](/graphs/output_24_0.png)
 
 
 
@@ -2023,5 +2023,5 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![png](graphs/output_25_0.png)
 
